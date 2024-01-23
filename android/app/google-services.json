@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "380545508071",
+    "project_id": "chat-app-chalenge",
+    "storage_bucket": "chat-app-chalenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380545508071:android:4c8998eeb39e66ae7a3842",
+        "android_client_info": {
+          "package_name": "com.example.chat_app_chalenge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJvPO9i5ACVlVFjVOTBgGTvkj0jEwTfNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
